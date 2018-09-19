@@ -2,7 +2,7 @@
 Hi, thank you for reading the README. Here I will quickly explain the game.
 
 # Download Instructions:
-1) Simply download the zip file, Dragon, Fire and Dodge (PC v.1.1.0)_Data. 
+1) Simply download the zip file, Dragon, Fire and Dodge (PC v.1.1.0). 
 2) Extract the contents of the zip file somewhere on your computer. 
 3) The exe file should be the first file that you see and is called Dragon, Fire and Dodge (PC v.1.1.0). Simply click the file and you should be able to play
 
